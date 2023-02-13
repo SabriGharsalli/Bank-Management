@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FinanceAPIDataTests
+build_property.ProjectDir = c:\Users\Sabri\Desktop\Banking-api-master\src\BankingAPI\UnitTests\FinanceAPIDataTests\
